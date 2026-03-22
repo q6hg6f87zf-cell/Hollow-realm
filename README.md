@@ -145,7 +145,7 @@
       
       // We'll use a placeholder for the hero image since it's hardcoded in the single file
       // INSTRUCTION: Replace this URL with your uploaded image URL later.
-      const HERO_IMAGE_URL = "image.png";
+      const HERO_IMAGE_URL = "IMG_5131.png";
 
       const handleTouch = (e) => {
         const rect = e.currentTarget.getBoundingClientRect();
